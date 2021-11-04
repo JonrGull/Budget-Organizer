@@ -1,4 +1,4 @@
-# Budget-Organizer
+# React-Budget-Organizer
 
 Following a tutorial from Maximilian Schwarzmüller and making some changes as I go through it.
 
