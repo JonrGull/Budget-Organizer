@@ -29,11 +29,12 @@ const App = () => {
     },
   ];
 
-  return;
-  <div>
-    {/* <h2></h2> */}
-    <Expenses items={expenses} />
-  </div>;
+  return (
+    <div>
+      {/* <h2></h2> */}
+      <Expenses items={expenses} />
+    </div>
+  );
 };
 
 export default App;
