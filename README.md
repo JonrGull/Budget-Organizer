@@ -7,4 +7,5 @@ The finished product you will be able to add your own items and it will give you
 Live demo! https://jonrgull.github.io/Budget-Organizer/
 
 # Future features
-  - Add some animations
+
+- Add some animations
