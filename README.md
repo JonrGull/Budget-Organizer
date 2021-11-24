@@ -1,14 +1,16 @@
 # Budget-Organizer
 
-Following a tutorial from Maximilian Schwarzmüller and making some changes of my own as I go through it. 
+Following a tutorial from Maximilian Schwarzmüller and making some changes of my own as I go through it.
 
-The finished product you will be able to add your own items and it will give you a monthly/yearly breakdown of all your expenses. This is just to help me practice better React designing.
+This program allows you to log and track all of your expenses that you had throughout the past few years and the future. It gives you a monthly/yearly breakdown of all your expenses with a small chart that easily allows you to see which month had the highest expenses. This is just to help me practice better React designing.
 
 Live demo! https://jonrgull.github.io/Budget-Organizer/
 
 # Code I changed from the tutorial
-- 
+
+- Refactored some unnecessary imports and cleaned up some commented code.
 
 # Future features
 
 - Add some animations
+- Maybe further the future, but I'd like to add cookies so it can actually be used properly. Currently, if you refresh the page, all data is lost. However, I am aware I would need more of a backend to achieve this feature.
