@@ -13,4 +13,4 @@ Live demo! https://jonrgull.github.io/Budget-Organizer/
 # Future features
 
 - Add some animations
-- Maybe further the future, but I'd like to add cookies so it can actually be used properly. Currently, if you refresh the page, all data is lost. However, I am aware I would need more of a backend to achieve this feature.
+- Maybe further in the future, but I'd like to add cookies so it can actually be used properly. Currently, if you refresh the page, all data is lost. However, I am aware I would need more of a backend to achieve this feature.
