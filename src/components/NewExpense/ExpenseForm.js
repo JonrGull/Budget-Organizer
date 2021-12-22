@@ -28,10 +28,14 @@ const ExpenseForm = (props) => {
       date: new Date(enteredDate),
     };
 
-    props.onSaveExpenseData(expenseData);
-    setEnteredTitle("");
-    setEnteredAmount("");
-    setEnteredDate("");
+    if (enteredTitle === undefined || enteredTitle === "") {
+      alert("Please enter a title!");
+    } else {
+      props.onSaveExpenseData(expenseData); //clear states after submit
+      setEnteredTitle("");
+      setEnteredAmount("");
+      setEnteredDate("");
+    }
   };
 
   return (
