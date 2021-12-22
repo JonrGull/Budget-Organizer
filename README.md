@@ -9,6 +9,8 @@ Live demo! https://jonrgull.github.io/Budget-Organizer/
 # Code I changed from the tutorial
 
 - Added checks to prevent strings from being empty. An alert box pops up to inform the user of missing requirements.
+- Changed default year
+- Changed colors
 - Refactored some unnecessary imports and cleaned up some commented code.
 
 # Future features
