@@ -20,7 +20,7 @@ const DUMMY_EXPENSES = [
     id: "e3",
     title: "Giant Teddy Bear",
     amount: 129.78,
-    date: new Date(2019, 12, 24),
+    date: new Date(2019, 11, 24), // These days start at 0 and end at 11
   },
   {
     id: "e4",
