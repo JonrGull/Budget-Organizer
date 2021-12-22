@@ -28,8 +28,15 @@ const ExpenseForm = (props) => {
       date: new Date(enteredDate),
     };
 
-    if (enteredTitle === undefined || enteredTitle === "") {
-      alert("Please enter a title!");
+    console.log(enteredDate);
+
+    if (enteredTitle === "") {
+      // prevents blank strings
+      alert("Please enter a title.");
+    } else if (enteredAmount === "") {
+      alert("Please enter an amount.");
+    } else if (enteredDate === "") {
+      alert("Please enter a date.");
     } else {
       props.onSaveExpenseData(expenseData); //clear states after submit
       setEnteredTitle("");
