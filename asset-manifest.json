@@ -1,20 +1,20 @@
 {
   "files": {
-    "main.css": "/Budget-Organizer/static/css/main.3cbed59d.chunk.css",
-    "main.js": "/Budget-Organizer/static/js/main.9c2535ac.chunk.js",
-    "main.js.map": "/Budget-Organizer/static/js/main.9c2535ac.chunk.js.map",
+    "main.css": "/Budget-Organizer/static/css/main.8c93ceb4.chunk.css",
+    "main.js": "/Budget-Organizer/static/js/main.dc6990ee.chunk.js",
+    "main.js.map": "/Budget-Organizer/static/js/main.dc6990ee.chunk.js.map",
     "runtime-main.js": "/Budget-Organizer/static/js/runtime-main.0a6a5e75.js",
     "runtime-main.js.map": "/Budget-Organizer/static/js/runtime-main.0a6a5e75.js.map",
     "static/js/2.3e00e7d4.chunk.js": "/Budget-Organizer/static/js/2.3e00e7d4.chunk.js",
     "static/js/2.3e00e7d4.chunk.js.map": "/Budget-Organizer/static/js/2.3e00e7d4.chunk.js.map",
     "index.html": "/Budget-Organizer/index.html",
-    "static/css/main.3cbed59d.chunk.css.map": "/Budget-Organizer/static/css/main.3cbed59d.chunk.css.map",
+    "static/css/main.8c93ceb4.chunk.css.map": "/Budget-Organizer/static/css/main.8c93ceb4.chunk.css.map",
     "static/js/2.3e00e7d4.chunk.js.LICENSE.txt": "/Budget-Organizer/static/js/2.3e00e7d4.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.0a6a5e75.js",
     "static/js/2.3e00e7d4.chunk.js",
-    "static/css/main.3cbed59d.chunk.css",
-    "static/js/main.9c2535ac.chunk.js"
+    "static/css/main.8c93ceb4.chunk.css",
+    "static/js/main.dc6990ee.chunk.js"
   ]
 }
