@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/Budget-Organizer/static/css/main.8c93ceb4.chunk.css",
+    "main.css": "/Budget-Organizer/static/css/main.f9aae8f5.chunk.css",
     "main.js": "/Budget-Organizer/static/js/main.fb878eae.chunk.js",
     "main.js.map": "/Budget-Organizer/static/js/main.fb878eae.chunk.js.map",
     "runtime-main.js": "/Budget-Organizer/static/js/runtime-main.0a6a5e75.js",
@@ -8,13 +8,13 @@
     "static/js/2.3e00e7d4.chunk.js": "/Budget-Organizer/static/js/2.3e00e7d4.chunk.js",
     "static/js/2.3e00e7d4.chunk.js.map": "/Budget-Organizer/static/js/2.3e00e7d4.chunk.js.map",
     "index.html": "/Budget-Organizer/index.html",
-    "static/css/main.8c93ceb4.chunk.css.map": "/Budget-Organizer/static/css/main.8c93ceb4.chunk.css.map",
+    "static/css/main.f9aae8f5.chunk.css.map": "/Budget-Organizer/static/css/main.f9aae8f5.chunk.css.map",
     "static/js/2.3e00e7d4.chunk.js.LICENSE.txt": "/Budget-Organizer/static/js/2.3e00e7d4.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.0a6a5e75.js",
     "static/js/2.3e00e7d4.chunk.js",
-    "static/css/main.8c93ceb4.chunk.css",
+    "static/css/main.f9aae8f5.chunk.css",
     "static/js/main.fb878eae.chunk.js"
   ]
 }
